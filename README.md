@@ -1,4 +1,37 @@
-# CS3244-45-Quora-Semantics-Project
+# CS3244 Project Title: Quora Question Pairs
+
+## Project Description
+
+The motivation behind this project is to reduce question duplicates on knowledge-sharing platforms like [Stackoverflow](https://stackoverflow.com/), [Google](https://google.com), [Quora](https://www.quora.com/) and [Reddit](https://www.reddit.com/).
+
+Duplicate questions negatively affects user experience as discussion for the same question is segmented into different posts. Hence, the aim of our project is to **minimise the duplicates (False Positive)** instances within the dataset.
+
+Machine Learning Techniques:
+1. Exploratory Data Analysis
+2. Feature Engineering
+3. Support Vector Machine
+4. Logistic Regression
+5. Random Forest Classifier
+6. XGBoost
+7. Recurrent Neural Networks (RNN)
+8. Siamese Recurrent Neural Networks (Siamese RNN)
+9. Natural Language Processing (NLP)
+
+## Evaluation of Models
+| **Models** | **F1** | **Recall** | **Precision** | **Accuracy** |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| SVM | 69.0%  | 90.3%  | 55.9%  | 70.2%  |
+| Logistic Regression | 53.6%  | 50.0%  | 57.6%  | 68.0%  |
+| RFC | 66.0%  | 76.0%  | 58.0%  | 71.0%  |
+| XGBoost | 70.8%  | 86.7%  | 59.7%  | 73.7%  |
+| RNN | 77.0% | 78.1%  | 75.9%  | 82.8% |
+| Siamese RNN | 77.0% (+0.034) | 78.1% (+0.061)  | 75.9% (+0.008)  | 82.8% (+0.019) |
+
+## Final Siamese RNN Architecture
+<img width="1154" alt="Screenshot 2021-12-01 at 10 48 08 PM" src="https://user-images.githubusercontent.com/65394783/144255954-3db8717c-71ec-453d-8608-96c01cd16f2a.png">
+
+## Final Model
+Even though the improvements were minor, we regarded it as significant due to the large dataset it was trained over (~400,000 rows). Hence, the final model chosen was the **Siamese Recurrent Neural Networks with Engineered Features.**
 
 List of Source Code: 
 1. Feature Engineering
@@ -28,10 +61,10 @@ Note:
 
 ## Team Contributers:
 1. Jeremy Lee
-2. Lee Penn Han
+2. [Lee Penn Han](https://github.com/pennhanlee)
 3. Loke Kay Chi
-4. Lua Jun An
-5. Neaton Ang
+4. [Lua Jun An](https://github.com/luajunan)
+5. [Neaton Ang](https://github.com/neatonang)
 6. Swa Yong Shen
 
 ## Mentor: 
