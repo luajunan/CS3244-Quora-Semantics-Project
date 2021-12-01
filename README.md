@@ -36,7 +36,7 @@ Even though the improvements were minor, we regarded it as significant due to th
 ## Team Contributers:
 1. Jeremy Lee
 2. [Lee Penn Han](https://github.com/pennhanlee)
-3. Loke Kay Chi
+3. [Loke Kay Chi](https://github.com/kaychiiiii)
 4. [Lua Jun An](https://github.com/luajunan)
 5. [Neaton Ang](https://github.com/neatonang)
 6. Swa Yong Shen
