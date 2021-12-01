@@ -25,7 +25,7 @@ Machine Learning Techniques:
 | RFC | 66.0%  | 76.0%  | 58.0%  | 71.0%  |
 | XGBoost | 70.8%  | 86.7%  | 59.7%  | 73.7%  |
 | RNN | 77.0% | 78.1%  | 75.9%  | 82.8% |
-| Siamese RNN | 77.0% (+0.034) | 78.1% (+0.061)  | 75.9% (+0.008)  | 82.8% (+0.019) |
+| Siamese RNN | 77.0% (+0.034%) | 78.1% (+0.061%)  | 75.9% (+0.008%)  | 82.8% (+0.019%) |
 
 ## Final Siamese RNN Architecture
 <img width="1154" alt="Screenshot 2021-12-01 at 10 48 08 PM" src="https://user-images.githubusercontent.com/65394783/144255954-3db8717c-71ec-453d-8608-96c01cd16f2a.png">
