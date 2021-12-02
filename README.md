@@ -4,7 +4,7 @@
 
 The motivation behind this project is to reduce question duplicates on knowledge-sharing platforms like [Stackoverflow](https://stackoverflow.com/), [Google](https://google.com), [Quora](https://www.quora.com/) and [Reddit](https://www.reddit.com/).
 
-Duplicate questions negatively affects user experience as discussion for the same question is segmented into different posts. Hence, the aim of our project is to **minimise the duplicates (False Positive)** instances within the dataset.
+Duplicate questions negatively affects user experience as discussion for the same question is segmented into different posts. Hence, the aim of our project is to **minimise the duplicated (False Positive)** instances within the dataset.
 
 Machine Learning Techniques:
 1. Exploratory Data Analysis
