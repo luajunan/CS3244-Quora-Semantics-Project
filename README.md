@@ -34,7 +34,7 @@ Machine Learning Techniques:
 Even though the improvements were minor, we regarded it as significant due to the large dataset it was trained over (~400,000 rows). Hence, the final model chosen was the **Siamese Recurrent Neural Networks with Engineered Features.**
 
 ## Team Contributers:
-1. Jeremy Lee
+1. [Jeremy Lee](https://github.com/jlxw48)
 2. [Lee Penn Han](https://github.com/pennhanlee)
 3. [Loke Kay Chi](https://github.com/kaychiiiii)
 4. [Lua Jun An](https://github.com/luajunan)
