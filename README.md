@@ -39,7 +39,7 @@ Even though the improvements were minor, we regarded it as significant due to th
 3. [Loke Kay Chi](https://github.com/kaychiiiii)
 4. [Lua Jun An](https://github.com/luajunan)
 5. [Neaton Ang](https://github.com/neatonang)
-6. Swa Yong Shen
+6. [Swa Yong Shen](https://github.com/swayongshen)
 
 ## Mentor: 
 1. Cheong Siu Hong
